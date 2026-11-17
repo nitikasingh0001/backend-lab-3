@@ -45,3 +45,4 @@ Backend REST API made using Node.js, Express.js, MongoDB, Mongoose and dotenv as
 - Stock sale is conditionally applied only if enough quantity exists.
 - Error middleware centralizes validation, duplicate SKU, invalid ID and not-found responses.
 - `stockValue` is a Mongoose virtual calculated as `price * quantity`.
+.......
